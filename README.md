@@ -1,6 +1,7 @@
 # Avishek Roy 
+DAD || Husband || Neuroscientist
 ![Photo for github page](https://github.com/Avishek92/avishek.roy.github.io/assets/86578383/d7dabd2e-250f-4c0f-85d8-0a3564a73ba9)
-PostDoc fellow and CNRS unit agent at Interdisciplinary Institute for Neuroscience (UMR5297) 
+
 
 
 
@@ -33,5 +34,6 @@ During this period I came across different softwares related to the aforemention
 # Journal role
 Apart from doing experimental neuroscience I'm also involved in reviewing papers in peer review journals as ad-hoc reviewer in journals like Neurochemical research; Journal of Chemical Neuroanatomy; International journal of general Medicine.
 
-# SKILLS:
-★★★★★ Animal handling and behavior; ★★★★★ Stereotaxic manipulation; ★★★★★ Histology and immunostaining; ★★★★★ Transmission electron microscopy; ★★★☆☆ Electroporation; ★★★★☆ Electrophysiology; ★★★★★ Organotypic slice culture; ★★★★★ Biochemical tests; ★★★☆☆ NMR spectroscopy; ★★★★☆ Python; ★★★★☆ PowerBI; ★★★☆☆ IgorPro; ★★★★☆ Statistics; ★★★★☆ Writing
+# Fundings 
+![Funding bodies for github page](https://github.com/Avishek92/avishek.roy.com/assets/86578383/9f59c506-78e0-422d-adca-9c64b1473976)
+
