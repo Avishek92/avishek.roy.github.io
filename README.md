@@ -9,6 +9,11 @@ I’m physiologist by training and experimental neuroscientist by experience. My
 is to gain knowledge on the synaptic physiological mechanisms of neural circuit and 
 behavior.
 
+# About me
+
+I'm a physiologist by academic training, my research interests include synaptic, behavioral and circuit level alteration in neurodegeneration like Alzheimer's disease (AD).
+Alzheimer's is known to characterized by extracellular amyloid plaque and intracellular neurofibrillary tangle deposition in brain parenchyma. Which is implicated with patient's cognitive impairment and have direct association with synaptic dysfunction. My present role is to understand the role of genetic risk factors altering synaptic functions of AD (https://www.nature.com/articles/s41588-022-01024-z)
+_____________________________________________________________________________________________
 # SKILLS:
 ★★★★★ Animal handling and behavior; ★★★★★ Stereotaxic manipulation; ★★★★★
 Histology and immunostaining; ★★★★★ Transmission electron microscopy; ★★★☆☆
