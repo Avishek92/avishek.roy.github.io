@@ -10,7 +10,7 @@ DAD || Husband || Neuroscientist
 I'm a physiologist by academic training, my research interests include synaptic, behavioral and circuit level alteration in neurodegeneration like Alzheimer's disease (AD).
 Alzheimer's is known to characterized by extracellular amyloid plaque and intracellular neurofibrillary tangle deposition in brain parenchyma. Which is implicated with patient's cognitive impairment and have direct association with synaptic dysfunction. My present role is to understand the role of genetic risk factors altering synaptic functions of AD (https://www.nature.com/articles/s41588-022-01024-z).
 
-I'm working with [Dr Christophe Mulle](https://iins.u-bordeaux.fr/MULLE#mem) in the team Synapses and Neural Circuits in Behaviour at IINS (UMR5297), Bordeaux Neurocampus. My PhD thesis investigated the role of non-invasive brain stimulation in animal model of AD. Thesis title: ‘‘A morphological and functional study on intracerebroventricular streptozotocin induced rat model of Alzheimer’s disease: Effect of magnetic field stimulation’’. This work was conducted in Neurophysiology and nano-medicine lab with Dr Suman Jain in All India Institute for Medical Sciences, New Delhi.
+I'm working with [Dr Christophe Mulle](https://iins.u-bordeaux.fr/MULLE#mem) in the team Synapses and Neural Circuits in Behaviour at IINS (UMR5297), Bordeaux Neurocampus. My PhD thesis investigated the role of non-invasive brain stimulation in animal model of AD. Thesis title: ‘‘A morphological and functional study on intracerebroventricular streptozotocin induced rat model of Alzheimer’s disease: Effect of magnetic field stimulation’’. This work was conducted in Neurophysiology and nano-medicine lab with [Dr Suman Jain](https://www.aiims.edu/index.php?option=com_content&view=article&id=669&Itemid=1502&lang=en) in All India Institute for Medical Sciences, New Delhi.
 
 
 # Education
@@ -36,4 +36,9 @@ Apart from doing experimental neuroscience I'm also involved in reviewing papers
 
 # Fundings 
 ![Funding bodies for github page](https://github.com/Avishek92/avishek.roy.com/assets/86578383/9f59c506-78e0-422d-adca-9c64b1473976)
+
+
+
+[![Twitter logo](https://github.com/Avishek92/avishek.roy.com/assets/86578383/69f56572-860d-48f0-8c18-3005dcb4e57f)](https://twitter.com/Avishek92)https://twitter.com/Avishek92  [![orcid_logo_icon_145004](https://github.com/Avishek92/avishek.roy.com/assets/86578383/de36c85a-412e-4fc0-9d7a-c7265435eac9)](https://orcid.org/0000-0003-2633-487X)https://orcid.org/0000-0003-2633-487X  [![Linkedin-logo-black](https://github.com/Avishek92/avishek.roy.com/assets/86578383/19d69607-51c8-4364-a657-0a08caf1b30a)](https://www.linkedin.com/in/avishek-roy-128727113/)https://www.linkedin.com/in/avishek-roy-128727113/
+
 
