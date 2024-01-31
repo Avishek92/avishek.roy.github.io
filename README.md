@@ -3,10 +3,6 @@
 PostDoc fellow and CNRS unit agent at Interdisciplinary Institute for Neuroscience (UMR5297) 
 
 
-Nationality: Indian; Date/ Place of birth: 05.10.1992 Birbhum, West bengal, India
-Address: 59, Rue Kleber, Bordeaux, 33800, France; Hobbies: Cooking, poetry, painting.
-
-I’m physiologist by training and experimental neuroscientist by experience. My aim is to gain knowledge on the synaptic physiological mechanisms of neural circuit and behavior. My long term goal is to understand the synaptic circuits that are key factor shaping and regulating behaviour.
 
 # About me
 
@@ -18,11 +14,11 @@ I'm working with Dr Christophe Mulle in the team Synapses and Neural Circuits in
 
 # Education
 
-**Bachelors in Science   Physiology   University of Calcutta (2013)
+Bachelors in Science   Physiology   University of Calcutta (2013)
 
 Masters in Science   Human Physiology   University of Calcutta (2015)
 
-Doctor of Philosophy   Neurophysiology   All India Institute for Medical Sciences (2022) **  
+Doctor of Philosophy   Neurophysiology   All India Institute for Medical Sciences (2022)  
 
 
 # Expertise
