@@ -1,9 +1,15 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
-title: Avishek # the website title (if blank, full name will be used instead)
-first_name: Avishek
-middle_name: 
-last_name: Roy
-email: roy13avishek@gmail.com
+# Site Settings
+title: Avishek Roy
+email: roy13avishek@gmail.com 
+description: >
+  My own online portfolio.
+baseurl: "avishek.roy.com"
+url: "https://avishek92.github.io/avishek.roy.com/"
+twitter_username: Avishek92
+github_username:  Avishek Roy
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
