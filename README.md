@@ -36,11 +36,18 @@ During this period I came across different softwares related to the aforemention
 Apart from doing experimental neuroscience I'm also involved in reviewing papers in peer review journals as ad-hoc reviewer in journals like 
 **Neurochemical research**; **Journal of Chemical Neuroanatomy**; **International journal of general Medicine**.
 
+# Selected publications
+- Rawat RS, Bhambri A, Pal M, Roy A, Jain S, Pillai B, et al. Early life stressful experiences escalate aggressive behavior in adulthood via changes in transthyretin expression and function. eLife Sciences Publications, Ltd. 2022. DOI: 10.7554/eLife.77968 
+- Roy A, Sharma S, Nag TC, Katyal J, Gupta YK, Jain S. Cognitive Dysfunction and Anxiety Resulting from Synaptic Downscaling, Hippocampal Atrophy, and Ventricular Enlargement with Intracerebroventricular Streptozotocin Injection in Male Wistar Rats. Neurotoxicity Research. 2022 Sep 7;40(6):2179–202. DOI: 10.1007/s12640-022-00563-x 
+- Sharma B, Roy A 2 , Sengupta T, Vishwakarma LC, Singh A, Netam R, et al. Acute sleep deprivation induces synaptic remodeling at the soleus muscle neuromuscular junction in rats. Sleep. 2022 Sep 21;46(8). DOI: 10.1093/sleep/zsac229 
+
+
+
 # Fundings 
 ![Funding bodies for github page](https://github.com/Avishek92/avishek.roy.com/assets/86578383/9f59c506-78e0-422d-adca-9c64b1473976)
 
 
 
-[![Twitter logo](https://github.com/Avishek92/avishek.roy.com/assets/86578383/69f56572-860d-48f0-8c18-3005dcb4e57f)](https://twitter.com/Avishek92)https://twitter.com/Avishek92  [![orcid_logo_icon_145004](https://github.com/Avishek92/avishek.roy.com/assets/86578383/de36c85a-412e-4fc0-9d7a-c7265435eac9)](https://orcid.org/0000-0003-2633-487X)https://orcid.org/0000-0003-2633-487X  [![Linkedin-logo-black](https://github.com/Avishek92/avishek.roy.com/assets/86578383/19d69607-51c8-4364-a657-0a08caf1b30a)](https://www.linkedin.com/in/avishek-roy-128727113/)https://www.linkedin.com/in/avishek-roy-128727113/
+Logo/social links.pdf
 
 
