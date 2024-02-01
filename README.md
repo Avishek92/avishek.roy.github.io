@@ -1,6 +1,6 @@
 # Avishek Roy 
 DAD || Husband || Neuroscientist
-![Photo for github page](https://github.com/Avishek92/avishek.roy.github.io/assets/86578383/d7dabd2e-250f-4c0f-85d8-0a3564a73ba9)
+
 
 
 
@@ -15,11 +15,9 @@ I'm working with [Dr Christophe Mulle](https://iins.u-bordeaux.fr/MULLE#mem) in 
 
 # Education
 
-Bachelors in Science   Physiology   University of Calcutta (2013)
-
-Masters in Science   Human Physiology   University of Calcutta (2015)
-
-Doctor of Philosophy   Neurophysiology   All India Institute for Medical Sciences (2022)  
+- Doctor of Philosophy   Neurophysiology   All India Institute for Medical Sciences, New Delhi, India (_March; 2022_)  
+- Masters in Science   Human Physiology   University of Calcutta, Kolkata, India (_August; 2015_)
+- Bachelors in Science   Physiology   University of Calcutta, Kolkata, India (_August; 2013_)
 
 
 # Expertise
@@ -32,7 +30,8 @@ Previously, I used to do cognitive tasks with rodents. Also microinjection throu
 During this period I came across different softwares related to the aforementioned tools like Ethovision XT, AnyMaze, FIJI, Neurolucida, Neurolucida-explorer, Mnova, TopSpin, Espina, webknoss, python, SPSS, graphpad etc.
 
 # Journal role
-Apart from doing experimental neuroscience I'm also involved in reviewing papers in peer review journals as ad-hoc reviewer in journals like Neurochemical research; Journal of Chemical Neuroanatomy; International journal of general Medicine.
+Apart from doing experimental neuroscience I'm also involved in reviewing papers in peer review journals as ad-hoc reviewer in journals like 
+**Neurochemical research**; **Journal of Chemical Neuroanatomy**; **International journal of general Medicine**.
 
 # Fundings 
 ![Funding bodies for github page](https://github.com/Avishek92/avishek.roy.com/assets/86578383/9f59c506-78e0-422d-adca-9c64b1473976)
