@@ -53,6 +53,8 @@ Apart from doing experimental neuroscience I'm also involved in reviewing papers
 ![Funding bodies for github page](https://github.com/Avishek92/avishek.roy.com/assets/86578383/9f59c506-78e0-422d-adca-9c64b1473976)
 
 
-
-[**RG**](https://www.researchgate.net/profile/Avishek-Roy-7)https://www.researchgate.net/profile/Avishek-Roy-7      [**X**](https://twitter.com/Avishek92)https://twitter.com/Avishek92      [**LI**](https://www.linkedin.com/in/avishek-roy-128727113/)https://www.linkedin.com/in/avishek-roy-128727113/
+# Connect with me
+- [Research Gate](https://www.researchgate.net/profile/Avishek-Roy-7)https://www.researchgate.net/profile/Avishek-Roy-7      
+- [X: formerly Twitter](https://twitter.com/Avishek92)https://twitter.com/Avishek92      
+- [Linked in](https://www.linkedin.com/in/avishek-roy-128727113/)https://www.linkedin.com/in/avishek-roy-128727113/
 
