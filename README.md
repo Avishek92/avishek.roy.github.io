@@ -1,5 +1,3 @@
-# Avishek Roy 
-
 # Skills:
 ★★★★★ Animal handling and behavior; ★★★★★ Stereotaxic manipulation; ★★★★★ Histology and immunostaining; ★★★★★ Transmission electron microscopy; ★★★☆☆ Electroporation; ★★★★☆ Electrophysiology; ★★★★★ Organotypic slice culture; ★★★★★
 Biochemical tests; ★★★☆☆ NMR spectroscopy; ★★★★☆ Python; ★★★★☆ PowerBI; ★★★☆☆ IgorPro; ★★★★☆ Statistics; ★★★★☆ Writing
@@ -23,12 +21,11 @@ I'm working with [Dr Christophe Mulle](https://iins.u-bordeaux.fr/MULLE#mem) in 
 - Bachelors in Science   Physiology   University of Calcutta, Kolkata, India (_August; 2013_)
 
 # Work experiences
-- In a short project supported by short term studentship and student fellowhip & skill development scheme by ICMR and DBT respectively I have looked into the potential to generate and incorporate new neurons in adult network of adult hippocampus of animals that has been exposed to extreemely low intensity and low frequency magnetic field _(sinusoidal, 17.96µT, 50Hz)_. In this project I've noit only learnt the mechanism of action of magnetic firld stimulation directly affecting the [cognition through manipulation of adult born circuitry](https://academic.oup.com/ageing/article/52/Supplement_1/afac322.037/6987738?login=true), but also got chance to guide two briliant students.
+- In a short project supported by short term studentship and student fellowhip & skill development scheme by **ICMR & DBT** respectively I have looked into the potential to generate and incorporate new neurons in adult network of adult hippocampus of animals that has been exposed to extreemely low intensity and low frequency magnetic field _(sinusoidal, 17.96µT, 50Hz)_. In this project I've noit only learnt the mechanism of action of magnetic firld stimulation directly affecting the [cognition through manipulation of adult born circuitry](https://academic.oup.com/ageing/article/52/Supplement_1/afac322.037/6987738?login=true), but also got chance to guide two briliant students.
 
-- I've worked in a indiviual senior research fellowship program vide.45/5/2019-PHY/BMS from _Indian Council of Medical Sciences_ at All India Institute of Medical Sciences, New Delhi from April 2019-2022 in project entittled as '“Effect of Chronic Exposure to Low Intensity Magnetic Field on Streptozotocin Induced Synaptic Dysfunction and Amyloid Precursor Protein Processing in Rats' where co-PIs were Dr Suman Jain & Dr Jyotirmoy Banerjee. The idea of the project was to investigate the [architechtural ateration](https://www.brainstimjrnl.com/article/S1935-861X(21)00379-X/fulltext) of the CA1 pyramidal layers of hippocampus injected with streptozotocin supported with the electrophysiological correlates of synaptic inputs with/ without sinusiodal magnetic field stimulation.   
+- I've worked in a indiviual senior research fellowship program vide.45/5/2019-PHY/BMS from **Indian Council of Medical Sciences** at All India Institute of Medical Sciences, New Delhi from April 2019-2022 in project entittled as '“Effect of Chronic Exposure to Low Intensity Magnetic Field on Streptozotocin Induced Synaptic Dysfunction and Amyloid Precursor Protein Processing in Rats' where co-PIs were Dr Suman Jain & Dr Jyotirmoy Banerjee. The idea of the project was to investigate the [architechtural ateration](https://www.brainstimjrnl.com/article/S1935-861X(21)00379-X/fulltext) of the CA1 pyramidal layers of hippocampus injected with streptozotocin supported with the electrophysiological correlates of synaptic inputs with/ without sinusiodal magnetic field stimulation.   
 
-- Currently from April 2022 till now I'm working to decipher the morpho-functional correlates of the genetic risk factors of Alzheimer's disease in a project with acronym _GENSYNALZ_ from **AAPG scheme from The French National Research Agency (ANR)**. This project is to develop tools to test the 
-Alzheimer's risk genes in organotypic as well as acute slices to link morpho-functional relationship using transfection, microscopic and electrophysiological tools. Genes that we are targeting has been already funneled down with GWAS as well as priliminary through multi-electrode-aarray recordings on dissociated neuronal culture.
+- From April 2022 till now I'm working to decipher the morpho-functional correlates of the genetic risk factors of Alzheimer's disease in a project with acronym _GENSYNALZ_ from **AAPG scheme from The French National Research Agency (ANR)**. This project is to develop tools to test the Alzheimer's risk genes in organotypic as well as acute slices to link morpho-functional relationship using transfection, microscopic and electrophysiological tools. Genes that we are targeting has been already funneled down with GWAS as well as priliminary through multi-electrode-aarray recordings on dissociated neuronal culture.
 
 # Expertise
 I work with acute slices from brains of animals transfected with AD risk genes. Therefore, I conduct single cell electroporation experiments, use viral tools for transfect neurons of choice. Recent electrophysiological experiments provide me to understand the intrinsic properties of granule cells of dentate gyrus (DG). And also to understand the dynamics of perforant pathway-DG synaptic circuitry. Apart from electrophysiology my other responsibilities includes morphological analysis of the DG cells both at dendritic as well as at spine level. To do so, I use multiple imaging platforms viz. wide-field, (epi)fluorescence and confocal microscopy. 
@@ -41,8 +38,8 @@ During this period I came across different softwares related to the aforemention
 
 # Journal role
 Apart from doing experimental neuroscience I'm also involved in reviewing papers in peer review journals as ad-hoc reviewer in journals like 
-**Neurochemical research**; 
-**Journal of Chemical Neuroanatomy**; 
+**Neurochemical research** 
+**Journal of Chemical Neuroanatomy**
 **International journal of general Medicine**.
 
 # Selected publications
@@ -57,6 +54,5 @@ Apart from doing experimental neuroscience I'm also involved in reviewing papers
 
 
 
-[social links.pdf](https://github.com/Avishek92/avishek.roy.com/files/14125754/social.links.pdf)
-
+[**RG**](https://www.researchgate.net/profile/Avishek-Roy-7)https://www.researchgate.net/profile/Avishek-Roy-7      [**X**](https://twitter.com/Avishek92)https://twitter.com/Avishek92      [**LI**](https://www.linkedin.com/in/avishek-roy-128727113/)https://www.linkedin.com/in/avishek-roy-128727113/
 
