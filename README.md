@@ -2,8 +2,8 @@
 ★★★★★ Animal handling and behavior; ★★★★★ Stereotaxic manipulation; ★★★★★ Histology and immunostaining; ★★★★★ Transmission electron microscopy; ★★★☆☆ Electroporation; ★★★★☆ Electrophysiology; ★★★★★ Organotypic slice culture; ★★★★★
 Biochemical tests; ★★★☆☆ NMR spectroscopy; ★★★★☆ Python; ★★★★☆ PowerBI; ★★★☆☆ IgorPro; ★★★★☆ Statistics; ★★★★☆ Writing
 
-
-
+Image/what I do.gif
+**glimps of what I do**
 
 
 # About me
