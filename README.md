@@ -39,7 +39,8 @@ During this period I came across different softwares related to the aforemention
 
 
 
-https://github.com/Avishek92/avishek.roy.com/assets/86578383/ce6f1408-96ef-4e4f-b588-bfbfd87707e4
+![what I do_scaled down](https://github.com/Avishek92/avishek.roy.com/assets/86578383/4fc3a2bf-d85a-419a-b768-de6c02b01fa0)
+
 
 
 
