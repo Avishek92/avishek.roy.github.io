@@ -2,7 +2,7 @@
 ★★★★★ Animal handling and behavior; ★★★★★ Stereotaxic manipulation; ★★★★★ Histology and immunostaining; ★★★★★ Transmission electron microscopy; ★★★☆☆ Electroporation; ★★★★☆ Electrophysiology; ★★★★★ Organotypic slice culture; ★★★★★
 Biochemical tests; ★★★☆☆ NMR spectroscopy; ★★★★☆ Python; ★★★★☆ PowerBI; ★★★☆☆ IgorPro; ★★★★☆ Statistics; ★★★★☆ Writing
 
-![what I do](https://github.com/Avishek92/avishek.roy.com/assets/86578383/0dc31959-e926-48a9-81ac-b474c00426ed)
+
 
 
 
@@ -36,6 +36,12 @@ And then for analysis I use Igor pro, Neuromatic, open-ephy-python-tool for Ephy
 Previously, I used to do cognitive tasks with rodents. Also, microinjection through stereotaxic surgeries in brain areas (like hippocampus, lateral ventricles, hypothalamus etc.). Further, I did different histological tools (Nissl, Golgi-COX, Congo-red) including immunostaining for sub-cellular localization of proteins, biochemicals tools (ELISA, western blot), 1H-NMR, transmission electron microscopy.
 
 During this period I came across different softwares related to the aforementioned tools like Ethovision XT, AnyMaze, FIJI, Neurolucida, Neurolucida-explorer, Mnova, TopSpin, Espina, webknoss, python, SPSS, graphpad etc.
+
+
+
+https://github.com/Avishek92/avishek.roy.com/assets/86578383/ce6f1408-96ef-4e4f-b588-bfbfd87707e4
+
+
 
 # Journal role
 Apart from doing experimental neuroscience I'm also involved in reviewing papers in peer review journals as ad-hoc reviewer in journals like 
