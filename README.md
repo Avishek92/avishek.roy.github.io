@@ -39,7 +39,9 @@ During this period I came across different softwares related to the aforemention
 
 
 
-![what I do_scaled down](https://github.com/Avishek92/avishek.roy.com/assets/86578383/4fc3a2bf-d85a-419a-b768-de6c02b01fa0)
+![What I do](https://github.com/Avishek92/avishek.roy.com/assets/86578383/ff70f5d1-92be-4eb8-98c7-c74b6e347cc8)
+_Figure. 1:_ 
+Representative images of the experiments that I do/ have done: Golgi-cox impregnated granular cells of DG layer of animals injected with streptozotocin (A); CA3 pyramidal cells transfected with plasmid using single cell electroporation tool (left panel) also the dendritic spine (right panel) fluororescence images were taken from immunestained organotypic slice with anti-NeuN (magenta), DAPI (blue) and anti-GFP (green, B); intrinsic biophysical properties of DG cells recorded with whole-cell current-clamp patch-clamp tool from lenti-virally infected cells with desired shRNA taken with DIC image from ephys rig (in green) step-wise current injection protocol for AP generation (second image), short-pulse current injection for action potential (third image) and paied-pulse action fecilitation frm performant path-DG circuit (fourth image, C); Morris-water-maze occupancy plot or heat map of swimming of animals injected with streptozotocin in lateral ventricles of brain: appreciable thigmotaxic behavior is seen in these animals (D); llustration representing the coronal section showing the coronal plane marking the dorsal CA1representing a detailed neuron model based on [Ascoli atlas](https://pair-recording-bsp-epfl.apps.hbp.eu/circuits/rat-ca1) with pyramidal and interneuron (E); mossy fiber gigantic bouton reconstructed from GFP immune stained confocal image stack using Imaris (F); Fluorescence image of hilus region of DG immunestained with anti-hp-tau (red), GFP (green), DAPI for nuclui(blue, G)
 
 
 
