@@ -51,6 +51,8 @@ Apart from doing experimental neuroscience I'm also involved in reviewing papers
 - **Neurochemical research** 
 - **Journal of Chemical Neuroanatomy**
 - **International journal of general Medicine**
+- **Journal of Basic and Clinical Physiology and Pharmacology**
+- **Frontiers in Neuroscience**
 
 # Selected publications
 - Rawat RS, Bhambri A, Pal M, _**Roy A**_, Jain S, Pillai B, et al. Early life stressful experiences escalate aggressive behavior in adulthood via changes in transthyretin expression and function. eLife Sciences Publications, Ltd. 2022. [DOI: 10.7554/eLife.77968](https://elifesciences.org/articles/77968) 
